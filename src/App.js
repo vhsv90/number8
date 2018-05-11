@@ -69,7 +69,7 @@ class App extends Component {
       <div className="row">
       <div className="col-sm-6">
         <Jumbotron>
-          <h1>Programming Exercise</h1>
+          <h1>Programming Exercise - Number8</h1>
           <p>
             Web-based application that displays a monthly calendar created by Victor Sanchez.
           </p>
